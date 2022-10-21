@@ -1,0 +1,9 @@
+#ifndef MENUSTATE_H
+#define MENUSTATE_H
+
+
+enum {CARD_READER, CARD_REGISTER, CARD_REMOVE, CARD_MODIFY, CARD_FIND};
+
+
+
+#endif
